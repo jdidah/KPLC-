@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">KPLC Mobi</string>
+    <string name="log_in">Log In</string>
+    <string name="user_email">Email:</string>
+    <string name="user_pass">Password:</string>
+    <string name="not_registered">Still in the dark?</string>
+    <string name="register_promp">Register Now</string>
+    <string name="sign_up">Sign Up!</string>
+
+    <string name="name">Name</string>
+    <string name="acc_no">Meter Number</string>
+    <string name="phone">Phone Number</string>
+    <string name="pass_confirm">Confirm Password</string>
+
+    <string name="buy">Buy Tokens</string>
+    <string name="report">Report Power Problems</string>
+    <string name="apply">Apply For Power Connection</string>
+    <string name="inbox">My Inbox</string>
+    <string name="about">About Us</string>
+
+    <string name="amount">Amount</string>
+    <string name="Tokens">Tokens</string>
+    <string name="Standing">Standing Charges</string>
+    <string name="Suggested">Suggested</string>
+    <string name="Purchase">Purchase</string>
+    <string name="Histroy">View My Purchase History</string>
+    <string name="History_main">My Purchase History</string>
+
+    <string name="report_page">Report</string>
+    <string name="report_message">"Caught in the dark?\n\nSend us a message and we'll sort you out immediately"</string>
+    <string name="describe">Describe your problem...</string>
+    <string name="send">Send</string>
+    <string name="location">Automatically send my location</string>
+
+    <string name="date">Date</string>
+    <string name="month">Month</string>
+    <string name="cash">Cash</string>
+    <string name="tokens">Tokens</string>
+    <string name="number">Token Number</string>
+
+    <string name="apply_today">Apply Today</string>
+    <string name="logout">Log Out</string>
+
+    <string name="empty_mail">*Email cannot be empty</string>
+    <string name="empty_pass">*Password cannot be empty</string>
+    <string name="log_in_fail">"We couldn't log you in. Please check credentials or network"</string>
+    <string name="messages">My Messages</string>
+
+    <string name="company">KPLC</string>
+    <string name="me">me</string>
+    <string name="nw">new</string>
+    <string name="no_rep">no reply</string>
+
+</resources>

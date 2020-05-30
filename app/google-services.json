@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "210360370701",
+    "firebase_url": "https://kplc-mobi.firebaseio.com",
+    "project_id": "kplc-mobi",
+    "storage_bucket": "kplc-mobi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210360370701:android:c117a46986c7f930",
+        "android_client_info": {
+          "package_name": "com.example.ian.kplcmobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210360370701-jlmvci985ads1crerbq5hngqcdabfqev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ian.kplcmobi",
+            "certificate_hash": "5cdbfb6243abcaa938a4affb1fb42464d47a4764"
+          }
+        },
+        {
+          "client_id": "210360370701-b6i7t8v8vfv65e8l1b6t8ss6frf3fdlo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "210360370701-b6i7t8v8vfv65e8l1b6t8ss6frf3fdlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqR3ScEauPxgjQv0kMoKfedICjBc0uwLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210360370701-b6i7t8v8vfv65e8l1b6t8ss6frf3fdlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
