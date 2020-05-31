@@ -1,4 +1,4 @@
-package com.example.ian.kplcmobi;
+package com.example.jillo.kplcmobi;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
