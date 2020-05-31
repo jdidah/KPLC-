@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import java.util.List;
 
-//To get our purchase history from database
+//To get the purchase history from database
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
