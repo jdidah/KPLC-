@@ -19,6 +19,7 @@ The application is convenient for the consumer in that:
 -It gives alerts about the power disruptions to the user hence they can plan their activities earlier and ensure they are not inconvenienced in their daily power uses.
 - It provides information on billing of the tokens so that they can plan out their budgets accordingly.
 - It relieves customers the trouble of having to travel to the company offices to apply for electricity connection, request for repairs and other enquiries.
+
   II. 	Company
 	This application is useful to the company in that:
 -	It enables the company reach out to the consumers easily.
