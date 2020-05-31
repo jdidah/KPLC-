@@ -2,7 +2,7 @@ package com.example.jillo.kplcmobi;
 
 import android.app.Fragment;
 
-import com.example.ian.kplcmobi.InboxFragment;
+import com.example.jillo.kplcmobi.InboxFragment;
 
 public class MessageHandlerFragment extends Fragment {
 
