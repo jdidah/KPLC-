@@ -93,7 +93,7 @@ public class LoadBitmaps extends AsyncTask<Integer, Void, Bitmap>{
          }
     }
 
-    //will use static methods
+    //use static methods
     //Methods to assist in loading bitmaps
     //It gets the appropriate sample size to use
     private int calculateInSampleSize(BitmapFactory.Options options, int reqWidth, int reqHeight){
