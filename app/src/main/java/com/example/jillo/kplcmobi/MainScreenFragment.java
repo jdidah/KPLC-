@@ -1,6 +1,6 @@
 package com.example.jillo.kplcmobi;
 
-//for extending fragment
+//Extending fragment
 import android.app.Fragment;
 
 //For our onClick listener, since clicking both image and text associated with image should open screen for that function
