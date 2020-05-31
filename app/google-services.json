@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:210360370701:android:c117a46986c7f930",
         "android_client_info": {
-          "package_name": "com.example.ian.kplcmobi"
+          "package_name": "com.example.jillo.kplcmobi"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "210360370701-jlmvci985ads1crerbq5hngqcdabfqev.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.ian.kplcmobi",
+            "package_name": "com.example.jillo.kplcmobi",
             "certificate_hash": "5cdbfb6243abcaa938a4affb1fb42464d47a4764"
           }
         },
