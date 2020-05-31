@@ -1,4 +1,4 @@
-package com.example.ian.kplcmobi;
+package com.example.jillo.kplcmobi;
 
 public interface InboxMessageThreadCommunicator {
 }
