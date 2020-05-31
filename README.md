@@ -1,7 +1,6 @@
 # KPLC Power Meter Token Calculator
 
-ABSTRACT
-KPLC shifted from the traditional use of meter boxes toward the use of tokens. This transition has proven to be a disruptive technology since most people do not know how the pricing on the tokens is done. With the increased usage of smartphones, it is thus necessary that an application that offers information provision services and other services such as token calculation be built.
+Kenya Power and Lighting Company shifted from the traditional use of meter boxes toward the use of tokens. This transition has proven to be a disruptive technology since most people do not know how the pricing on the tokens is done. With the increased usage of smartphones, it is thus necessary that an application that offers information provision services and other services such as token calculation be built.
 
 FUNCTIONALITY
 This app provides the following services:
