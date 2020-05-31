@@ -1,11 +1,7 @@
-package com.example.ian.kplcmobi;
+package com.example.jillo.kplcmobi;
 
 /*
-Created by Ian Cornelius
- */
-
-/*
-Okay, serious code here. First, I need to sort my messages in terms of the correct order of appearance, based on some time stamp
+First, I need to sort my messages in terms of the correct order of appearance, based on some time stamp
 or sorting sequence note in the db fields. The messages will be under the main child of messages, then user id, then each message
 thread as a node with messageid - just a title with time stamp, then textual fields for all the texts under that thread. The thread
 may be have a field for sorting id in db. Proly save these messages offline for later view, even for purchase history
