@@ -7,7 +7,6 @@ Sign in anims well done. Now for the sign up fragment switch
 /*
 May need a fragment tracker, to know which fragment to load incase lifecycle affects activity.
 
-NO NEEEEED!!!!
  */
 
 import android.support.v7.app.AppCompatActivity;
@@ -28,8 +27,8 @@ import android.graphics.Bitmap;
 import android.widget.Toast;
 
 //For firebase
-import com.example.ian.kplcmobi.LoadBitmaps;
-import com.example.ian.kplcmobi.R;
+import com.example.jillo.kplcmobi.LoadBitmaps;
+import com.example.jillo.kplcmobi.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
