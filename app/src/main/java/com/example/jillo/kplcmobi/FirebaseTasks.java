@@ -1,7 +1,6 @@
-package com.example.ian.kplcmobi;
+package com.example.jillo.kplcmobi;
 
 /*
-Created by Ian Omondi Cornelius.
 
 To handle all tasks related to Firebase.
 
