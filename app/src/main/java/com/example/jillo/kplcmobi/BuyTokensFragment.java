@@ -1,8 +1,4 @@
-package com.example.ian.kplcmobi;
-
-/*
-Created by Ian Omondi Cornelius
- */
+package com.example.jillo.kplcmobi;
 
 /* TODO
 Link tokens to purchase history
