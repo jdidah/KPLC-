@@ -1,6 +1,6 @@
 package com.example.jillo.kplcmobi;
 
-//for the onCreate method
+//onCreate method
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
